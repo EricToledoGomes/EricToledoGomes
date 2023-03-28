@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EricToledoGomes
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and java
+- 👀 I’m interested in AI and data science
+- 🌱 I’m currently learning python and R
 - 📫 erictoledog9@gmail.com
-- studying software engineering at SENAI 
+- studying artificial inteligence at UFV
 
 <!---
 EricToledoGomes/EricToledoGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
